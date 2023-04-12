@@ -1,4 +1,4 @@
-![hexlet-check](https://github.com/4l3xT4lk3r/hexlet-ci-app/actions/workflows/hexlet-check.yml/badge.svg) 
+[![hexlet-check](https://github.com/4l3xT4lk3r/hexlet-ci-app/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/4l3xT4lk3r/hexlet-ci-app/actions)
 
 # Example app for CI Hexlet course
 
